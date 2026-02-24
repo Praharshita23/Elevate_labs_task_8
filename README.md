@@ -1,4 +1,5 @@
 Superstore Sales Dashboard – Task 8
+
 📌 Project Overview
 
 This project was completed as part of Elevate Labs – Data Analyst Internship (Task 8).
